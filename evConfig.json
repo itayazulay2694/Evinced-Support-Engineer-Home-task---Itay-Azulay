@@ -1,0 +1,19 @@
+{
+  "switchOn": true,
+  "scan": {
+    "iframes": true,
+    "screenshots": {
+      "enabled": true
+    }
+  },
+  "report": {
+    "format": "html",
+    "outputDir": "./evinced-reports",
+    "fileName": "aggregatedReport"
+  },
+  "platform": {
+    "upload": {
+      "enabled": false
+    }
+  }
+}

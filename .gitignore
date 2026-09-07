@@ -1,0 +1,14 @@
+node_modules/
+.env
+.npmrc
+dist/
+test-results/
+playwright-report/
+blob-report/
+evincedAggReports/
+logs/
+
+# evinced-reports/ is intentionally committed — the exercise asks for the
+# obtained HTML report (with screenshots) to be shared in the repo.
+*.log
+.DS_Store
